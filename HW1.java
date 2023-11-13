@@ -192,5 +192,82 @@ public class HW1 {
     }
 }
 
+/*
+Welcome to the App
+1. Palindrome Check
+2. Anagram Check
+3. Add Substring
+4. Get Length
+5. Count Occurances
+6. Reverse Sentence
+7. Quit
+Choose an option: 1
+Enter String: asdfdsa
+Is Palindrome: true
+1. Palindrome Check
+2. Anagram Check
+3. Add Substring
+4. Get Length
+5. Count Occurances
+6. Reverse Sentence
+7. Quit
+Choose an option: 2
+Enter first String: Hello
+Enter second String: lelho
+Is Anagram: true
+1. Palindrome Check
+2. Anagram Check
+3. Add Substring
+4. Get Length
+5. Count Occurances
+6. Reverse Sentence
+7. Quit
+Choose an option: 3
+Enter String: hello
+Substring to be inserted: world
+Index placement: 3
+New string: helworldlo
+1. Palindrome Check
+2. Anagram Check
+3. Add Substring
+4. Get Length
+5. Count Occurances
+6. Reverse Sentence
+7. Quit
+Choose an option: 4
+Enter String: This coding project is fun!
+Length: 27
+1. Palindrome Check
+2. Anagram Check
+3. Add Substring
+4. Get Length
+5. Count Occurances
+6. Reverse Sentence
+7. Quit
+Choose an option: 5
+Enter String: Apples oranges grapes
+Substring to count: 2
+Occurances: 0
+1. Palindrome Check
+2. Anagram Check
+3. Add Substring
+4. Get Length
+5. Count Occurances
+6. Reverse Sentence
+7. Quit
+Choose an option: 6
+Enter Sentence: Coding is fun for everyone
+Reversed Sentence: everyone for fun is Coding
+1. Palindrome Check
+2. Anagram Check
+3. Add Substring
+4. Get Length
+5. Count Occurances
+6. Reverse Sentence
+7. Quit
+Choose an option: 7
+Have a nice day:)
+*/
+
 
 
